@@ -6,7 +6,7 @@ I AM ME!! I AM HIM!!!
 
 ## 🛠 Skills
 
-<p align="center">
+<p>
   none what do you expect?
 </p>
 
