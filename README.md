@@ -40,4 +40,4 @@ I've worked on 0 projects.
 
 ## 🌐 Connect with me
 
-Feel free to connect with me on [Discord](https://discord.com/users/905181976758190120)!
+Feel free to connect with me on [Discord](https://discord.com/users/1059107591969579008)!
