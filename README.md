@@ -29,10 +29,10 @@ I've worked on 0 projects.
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zotixlx&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Zotixlx&show_icons=true&theme=tokyonight" alt="GitHub stats" />
   <br /><br />
   <a href="https://github.com/Zotixlx/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zotixlx&theme=radical" alt="Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zotixlx&theme=tokyonight" alt="Top Langs" />
   </a>
 </p>
 
